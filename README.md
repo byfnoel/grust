@@ -1,10 +1,14 @@
 # GRUST
-
 A grep command line tool written in rust
 
 ## EXAMPLE
-
 When running `cargo run -- argument file` for any argument inside a given file,
 the program would print out the primary occurrence of the argument.
 
-![Image](./examples/Screenshot 2023-10-19 at 1.44.11 PM.png)
+## LICENSE
+Licensed under either of
+
+* Apache License, Version 2.0
+    ([LICENSE-APACHE](LICENSE-APACHE) or http://www.apache.org/licenses/LICENSE-2.0)
+* MIT license
+    ([LICENSE-MIT](LICENSE-MIT) or http://opensource.org/licenses/MIT) at your option.
